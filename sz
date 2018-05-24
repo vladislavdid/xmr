@@ -23,9 +23,9 @@ sudo make
  
 sudo cp xmrig /usr/local/bin/xmrig 
  
-sudo chmod +x /root/xmr/local.sh 
+sudo chmod +x ./local.sh 
 
-sudo sh /root/xmr/local.sh 
+sudo ./local.sh 
 	
 sudo mv /tmp/enimus.service /etc/systemd/system/enimus.service 
  
