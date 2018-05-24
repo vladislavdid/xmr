@@ -26,7 +26,8 @@ sudo mv /tmp/enimus.service /etc/systemd/system/enimus.service
  
 sudo systemctl daemon-reload 
  
-sudo systemctl start enimus_miner.service 
-
+sudo systemctl start enimus_miner.service  
+ 
+  
 
 
