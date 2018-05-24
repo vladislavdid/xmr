@@ -10,8 +10,10 @@ sudo apt-get install -y git build-essential cmake
 sudo apt-get install -y libuv1-dev libmicrohttpd-dev uuid-dev 
  
 sudo echo /etc/crontab > 00 6 * * * root reboot   
-
+ 
 sudo git clone git@github.com:Enimus/xmr.git 
+  
+ 
 cd xmr 
 mkdir build 
 cd build 
