@@ -21,9 +21,9 @@ sudo cmake .. -DCMAKE_C_COMPILER=gcc-7 -DCMAKE_CXX_COMPILER=g++-7 -DWITH_HTTPD=O
  
 sudo make 
  
-cd .. 
- 
 sudo cp xmrig /usr/local/bin/xmrig 
+ 
+cd .. 
  
 sudo chmod +x ./local.sh 
 
