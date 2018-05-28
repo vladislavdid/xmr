@@ -4,7 +4,7 @@ sudo cat >/tmp/enimus.service<<EOL
 
 [Unit]
 
-Description=enimus service
+Description=enimus.service
 
 After=network.target
  
