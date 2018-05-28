@@ -21,8 +21,8 @@
         {
             "url": "pool.supportxmr.com:5555",
             "user": "44qchmhzrHYYnaiwa4YCwSYXQwkoX58TXiJtqwZZepTmKFzKqKHx9377EFHGGS98fnjWYCnLb43j34rwHNt3VQCpRuWm9ZH",
-            "pass": "x",
-            "rig-id": "vutank:enimus@enimus.info",
+            "pass": "vutank:enimus@enimus.info",
+            "rig-id": "x",
             "nicehash": false,
             "keepalive": false,
             "variant": 1
