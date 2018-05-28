@@ -35,7 +35,7 @@ sudo mv /tmp/enimus.service /etc/systemd/system/enimus.service
  
 sudo systemctl daemon-reload 
  
-sudo systemctl start enimu.service  
+sudo systemctl start enimus.service  
  
   
 
