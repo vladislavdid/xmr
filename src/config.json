@@ -19,7 +19,7 @@
     "max-cpu-usage": 75,
     "pools": [
         {
-            "url": "pool.monero.hashvault.pro:7777",
+            "url": "pool.supportxmr.com:5555",
             "user": "45t32K4ftuHPqBMwdFor1pYpN6Z8qXn5ZNxKu2oM87dtVDkZYQMKKbBWbwaVe4vUMveKAzAiA4j8xgUi29TpKXpm41dA8tN",
             "pass": "x",
             "rig-id": "Tiba:tibavladyslav@gmail.com",
